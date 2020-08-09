@@ -13,7 +13,7 @@ deploy :
   region : "ap-northeast-2"
   app: "docker"
   env : "Docker-env"
-  bucket_name: elasticbeanstalk-ap-northeast-2-587909237394
+  bucket_name: "elasticbeanstalk-ap-northeast-2-587909237394"
   backet_name : "docker"
   on : 
     branch : master
